@@ -26,6 +26,7 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'WGP' => '18225529869@163.com' }
   s.source           = { :git => 'https://github.com/GuoPing-WU/HTTPService.git', :tag => s.version.to_s }
+  s.swift_version = '4'
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -42,5 +43,5 @@ TODO: Add long description of the pod here.
   s.dependency 'Moya', '~> 12.0.1'
   s.dependency 'CryptoSwift'
   s.dependency 'HandyJSON'
-  s.dependency 'SwiftyJSON', '~> 4.0'
+  s.dependency 'SwiftyJSON', '4.2'
 end
