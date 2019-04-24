@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HTTPService_Example' do
+  pod 'HTTPService', :path => '../'
+
+  target 'HTTPService_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
