@@ -1,0 +1,6 @@
+framework module HTTPService {
+  umbrella header "HTTPService-umbrella.h"
+
+  export *
+  module * { export * }
+}
