@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		13B777BDFD076D5E4F9B271E /* HTTPService.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HTTPService.podspec; path = ../HTTPService.podspec; sourceTree = "<group>"; };
+		13B777BDFD076D5E4F9B271E /* HTTPService.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HTTPService.podspec; path = ../HTTPService.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		42BCEA7CE964F98D83D0F28D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		47BFA50170C8F3C2EB4E6960 /* Pods-HTTPService_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HTTPService_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HTTPService_Tests/Pods-HTTPService_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		4FFDBD71DA49E67B58912D40 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
